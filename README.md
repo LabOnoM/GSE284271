@@ -2,7 +2,7 @@
 
 This repository hosts the codes for the original analysis of [GSE284271](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE284271).
 
-## 01 Prerequisites
+## Prerequisites
 
 To reproduce the results of our published article, the output of [`spaceranger`](https://www.10xgenomics.com/support/software/space-ranger/latest) has to be prepared by using all data from [GSE284271](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE284271) by yourself.
 
