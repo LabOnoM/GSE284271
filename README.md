@@ -14,6 +14,10 @@ The OS platform, R environments, R packages, and Python modules can be checked i
 
 To check the original results as same as in our original article, please visit our analysis report website ([https://labonom.github.io/GSE284271/01.scRNAseq10xVisiumHD.html](https://labonom.github.io/GSE284271/01.scRNAseq10xVisiumHD.html)).
 
+## Checks and deploys
+
+This repository uses no GitHub Actions (LabOnoM decision, 2026-10-13): it holds the analysis code of a published article with no automated checks, so re-run what a change affects by hand before merging and record the result in the pull request; nothing runs automatically.
+
 ## Contact
 
 WANG Ziyi  
